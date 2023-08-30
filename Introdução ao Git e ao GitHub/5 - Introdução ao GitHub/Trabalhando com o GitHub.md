@@ -12,7 +12,7 @@ git remote -v
 ```
 
 # Push
-To push our local commits to our remote repository, we can type the following comanda - Note that you've to certify that the remote repository have been setup as exemplified bellow:
+To push our local commits to our remote repository, we can type the following comand - Note that you've to certify that the remote repository have been setup as exemplified bellow:
 ```bash
 git push -u origin main 
 ```
